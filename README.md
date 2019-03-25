@@ -1,8 +1,17 @@
 # shiny-examples
 Examples for Shiny apps
 
-# Cool examples
+# Basic examples
+- [Rstudio examples](https://shiny.rstudio.com/gallery/)
+- [Heather's first Shiny app](https://hsavoy.shinyapps.io/Correlation_Regression/)
 
+# Cool examples from the recent Shiny Contest
+- [Weather visualizer](https://ferrouscraddock.shinyapps.io/Interactive_Weather_App/)
+- [Soil/crop data visualizer](https://lyux.shinyapps.io/viscover/)
+- [Machine learning and mushrooms](https://vfridkin.shinyapps.io/mushroom_app/)
+- [Github data science trends](https://gitdiscoverer.shinyapps.io/rstudio-shiny-contest/)
+- [Beer comparisons](https://jjohn9000.shinyapps.io/Milwaukee_Beer_App/)
+- Checkout the rest of the [contest](https://rstd.io/shiny-contest-2019)
 
 # Feature-specific documentaion and examples
 
@@ -18,6 +27,7 @@ You need the `leaflet` package, which comes with the necessary functions for Shi
 ## Plotly
 Plotly is a library for interactive plotting that works with R and Shiny. 
 - [Basic documentation from plotly](https://plot.ly/r/shiny-tutorial/) 
+- [Plotly shiny gallery](https://plot.ly/r/shiny-gallery/)
 
 ## shinyWidgets
 shinyWidgets is a R package providing alternatives to default Shiny inputs with more options. It can be a nice touch to make your
